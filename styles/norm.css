@@ -234,6 +234,7 @@ img {
 .sub__detail {
   color: #AAA;
   font-family: "Sorts Mill Goudy", "Georgia";
-  letter-spacing: 4px;
+  letter-spacing: 2px;
+  font-size: 13px;
   font-weight: normal;
 }
