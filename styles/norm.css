@@ -39,7 +39,9 @@ template {
   display: none
 }
 a {
-  background-color: transparent
+  background-color: transparent;
+  text-decoration: none;
+  color: inherit;
 }
 a:active,
 a:hover {
@@ -227,4 +229,11 @@ img {
   margin: 25px auto;
   height: 4px;
   width: 30px
+}
+
+.sub__detail {
+  color: #AAA;
+  font-family: "Sorts Mill Goudy", "Georgia";
+  letter-spacing: 2px;
+  font-weight: normal;
 }
