@@ -213,7 +213,8 @@ img {
   text-transform: uppercase
 }
 .title__main span {
-  display: block
+  display: block;
+  letter-spacing: 3px;
 }
 .title__sub {
   color: #444;
